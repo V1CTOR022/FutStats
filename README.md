@@ -1,4 +1,4 @@
-##⚽ Fut Stats
+##⚽ Fut Stats##
 
 Impacto Ofensivo dos Jogadores na Temporada 2025|2026
 Desenvolvido por Victor Yuri
