@@ -42,3 +42,46 @@ Comparação entre jogadores
 Seleção de dois jogadores para comparar gols, assistências, impacto ofensivo e partidas jogadas.
 
 Gráfico de barras comparativo para melhor visualização.
+
+Como usar
+
+Pré-requisitos
+
+Python 3.8+
+
+Instalar as bibliotecas necessárias:
+
+pip install pandas streamlit matplotlib seaborn
+
+Preparar os dados
+
+Coloque seu arquivo CSV com as estatísticas dos jogadores, por exemplo:
+
+C:\Python\players_data-2025_2026.csv
+
+Certifique-se que o CSV contenha pelo menos as colunas:
+
+Player, Pos, MP, Gls, Ast
+
+Executar a aplicação
+
+No terminal, dentro da pasta do projeto:
+
+streamlit run fut_stats.py
+
+A interface abrirá automaticamente no navegador.
+
+Interagir com os dados
+
+Use a barra lateral para filtrar posições.
+
+Explore tabelas e gráficos para visualizar os jogadores mais impactantes.
+
+Compare jogadores específicos usando o menu de seleção.
+
+Estrutura do Projeto
+FutStats/
+│
+├─ fut_stats.py       # Código principal da aplicação Streamlit
+├─ players_data-2025_2026.csv  # Dados dos jogadores
+└─ README.md          # Este arquivo
