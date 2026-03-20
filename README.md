@@ -1,11 +1,11 @@
-⚽ Fut Stats
+##⚽ Fut Stats
 
 Impacto Ofensivo dos Jogadores na Temporada 2025|2026
 Desenvolvido por Victor Yuri
 
 Fut Stats é uma aplicação interativa que permite analisar o desempenho ofensivo de jogadores de futebol, destacando gols, assistências e impacto por partida, utilizando Streamlit, Pandas, Matplotlib e Seaborn.
 
-🏆 Funcionalidades
+##🏆 Funcionalidades
 1. Carregamento de dados
 
 Lê arquivos CSV com estatísticas dos jogadores.
