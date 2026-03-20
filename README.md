@@ -76,7 +76,7 @@ Compare jogadores específicos usando o menu de seleção.
 
 ---
 
-##📂 Estrutura do Projeto
+📂 Estrutura do Projeto
 
 fut_stats.py → Código principal da aplicação Streamlit
 
@@ -84,7 +84,7 @@ players_data-2025_2026.csv → Dados dos jogadores
 
 ---
 
-##📬 Contato
+📬 Contato
 
 Desenvolvido por Victor Yuri
 
