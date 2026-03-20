@@ -51,7 +51,7 @@ Fut Stats é uma aplicação interativa que permite analisar o desempenho ofensi
 - Python 3.8 ou superior  
 - Instalar as bibliotecas necessárias:  
 ```bash
-pip install pandas streamlit matplotlib seaborn
+pip install pandas streamlit matplotlib seaborn'''
 
  Executar a aplicação
 
