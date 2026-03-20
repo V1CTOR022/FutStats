@@ -54,13 +54,16 @@ Fut Stats é uma aplicação interativa que permite analisar o desempenho ofensi
 pip install pandas streamlit matplotlib seaborn
 ```
 
-
+---
  Executar a aplicação
 
 No terminal, dentro da pasta do projeto:
 
+```bash
 streamlit run fut_stats.py
+```
 
+---
 A interface abrirá automaticamente no navegador.
 
 Interagir com os dados
@@ -71,11 +74,15 @@ Explore tabelas e gráficos para visualizar os jogadores mais impactantes.
 
 Compare jogadores específicos usando o menu de seleção.
 
+---
+
 📂 Estrutura do Projeto
 
 fut_stats.py → Código principal da aplicação Streamlit
 
 players_data-2025_2026.csv → Dados dos jogadores
+
+---
 
 📬 Contato
 
