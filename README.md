@@ -77,6 +77,9 @@ fut_stats.py → Código principal da aplicação Streamlit
 
 players_data-2025_2026.csv → Dados dos jogadores
 
-README.md → Este arquivo
+📬 Contato
 
+Desenvolvido por Victor Yuri
+
+LinkeIn : https://www.linkedin.com/in/victor-yuri-65147136a/
 
